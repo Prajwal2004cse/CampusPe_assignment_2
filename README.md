@@ -32,4 +32,4 @@ T John Institute of Technology
 
 ## Repository link
 
-https://github.com/YOUR-USERNAME/html-authentication-poc
+https://github.com/Prajwal2004cse/CampusPe_assignment_2
