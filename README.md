@@ -12,24 +12,28 @@ This project is a simple HTML authentication system created as part of an assign
 
 ## Features
 
-- User registration form
-- User login form
-- Forgot password functionality
-- Reset password page
+- User Login page
+- User Registration page
+- Forgot Password page
+- Reset Password page
 - Dashboard page
-- Proper navigation using anchor tags
-- Form validation using HTML
+- Proper navigation between pages using anchor tags
+- HTML form validation
 
-## Technologies used
+## Technologies Used
 
 - HTML5
+
+## How to use
+
+1. Open login.html in browser
+2. Navigate between pages using links
+3. Test registration, login, and password reset flow
 
 ## Author
 
 Prajwal J S
-Intern CampusPe
-T John Institute of Technology
 
-## Repository link
+## Repository Link
 
 https://github.com/Prajwal2004cse/CampusPe_assignment_2
